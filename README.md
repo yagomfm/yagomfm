@@ -73,9 +73,9 @@ class YagoMar:
         
     def skills(self):
         return {
-            "data": ["SQL", "Python", "Power BI", "Advanced Excel", "Metabase"],
+            "data": ["SQL", "Python", "Power BI", "Excel"],
             "soft_skills": ["Leadership", "Communication", "Problem Solving"],
-            "passions": ["Data", "Music", "Economics", "Social Impact"]
+            "passions": ["Learning", "Music", "Economics", "Social Work"]
         }
     
     def next_steps(self):
@@ -83,7 +83,8 @@ class YagoMar:
             "Master ETL and data pipelines",
             "CPA Certification - Financial Market",
             "Deep dive into Machine Learning",
-            "Contribute to open source projects"
+            "Contribute to open source projects",
+            "Initiate a Master's Degree"
         ]
 ```
 
